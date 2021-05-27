@@ -13,7 +13,7 @@ export default function Articles(props) {
                 <p>{e.title}</p>
               </Link>
               <p>{e.date}</p>
-              <img src={e.imageUrl} alt="photo"/>
+              <img src={e.imageUrl} alt="photo-1"/>
             </>
           )
         })
